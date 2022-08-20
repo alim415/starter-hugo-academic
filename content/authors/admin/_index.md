@@ -20,6 +20,7 @@ bio: My research interests include Maternal Health, Public Policy, and Race & In
 interests:
   - Health Economics
   - Public Economics
+  
 
 # Education to show in About widget
 education:
@@ -39,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: amy.lim@emory.edu
+    link: mailto:amy.lim@emory.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/amy-lim-3ab319107/
@@ -52,7 +53,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'amy.lim@emory.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
