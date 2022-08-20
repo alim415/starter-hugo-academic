@@ -36,14 +36,20 @@ experience:
         * Evaluated the effectiveness of after school programs in San Francisco on keeping at risk youth out of the juvenile justice system.
         
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant & Programmer
+    company: Mission Analytics Group
+    company_url: https://www.missionanalyticsgroup.com/
+    location: San Francisco, CA
+    date_start: '2018-06-01'
+    date_end: '2019-12-31'
+    description: |2-
+    
+    * Collected data from high income Bay Area counties to analyze the effect of increasing income ceilings on enrollment. 
+    * Analyzed Special Incident Report data from the Department of Developmental Disabilities to shape policy in state operated developmental disabilities centers.
+    * Generated visuals such as maps and charts for the Department of Youth and Families in San Francisco and the Department of Managed Healthcare
+    * Participated in collaborative research and literature review with the Department of Women’s Health on the effects of Paid Family Leave and Women’s Health. 
+    * Researched the Hepatitis C Virus epidemic in the US and worked with states to develop best practices and assist with technical assistance for key state stakeholders. 
+
 
 design:
   columns: '2'
