@@ -30,23 +30,23 @@ item:
     organization: Datacamp
     organization_url: https://www.datacamp.com/
     title: Intermediate Regression with statsmodels in Python
-    url: ''
-  - certificate_url: https://www.edx.org
+    url: https://app.datacamp.com/learn/courses/intermediate-regression-with-statsmodels-in-python
+  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/9527298a69b2ae37e296886cd0507a03ebc70144
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2021-02-05'
+    description: ''
+    organization: Datacamp
+    organization_url: https://www.datacamp.com/
+    title: Writing Efficient Python Code
+    url: https://app.datacamp.com/learn/courses/writing-efficient-python-code
+  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/312b5c4e381bb5d13759a9d747b8e3ef060523a8
+    date_end: ''
+    date_start: '2021-01-13'
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    title: Cloud Computing for Everyone
+    url: https://app.datacamp.com/learn/courses/cloud-computing-for-everyone
 
 design:
   columns: '2'
