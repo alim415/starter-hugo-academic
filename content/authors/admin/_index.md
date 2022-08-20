@@ -11,7 +11,7 @@ role: 2nd Year Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Emory University
-    url: https://www.stanford.edu/
+    url: https://economics.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
