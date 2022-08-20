@@ -22,18 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant & Programmer
+  - title: Analyst & Programmer
     company: Mission Analytics Group
     company_url: https://www.missionanalyticsgroup.com/
     location: San Francisco, CA
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2020-01-01'
+    date_end: '2021-07-31'
     description: |2-
-        Responsibilities include:
+      
+        * Conducted focus groups on the effects of Paid Family Leave on women’s health. Data collected are used to create reports to inform policymakers on how to expand PFL to other states or on a national level.
+        * Analyzed and tracked COVID-19 incidents and deaths in homes and facilities owned and operated by Developmental Disability Services in comparison to the state.
+        * Utilized Census data to measure Medicare recipients’ access to specialists in rural health settings and efficiency of critical access hospitals in providing services.
+        * Evaluated the effectiveness of after school programs in San Francisco on keeping at risk youth out of the juvenile justice system.
         
-        * Analysing
-        * Modelling
-        * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
