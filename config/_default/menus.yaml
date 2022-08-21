@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 #main:
-  - name: CV
-    url: static/uploads/resume.pdf
-    weight: 70
+  #- name: CV
+  #  url: static/uploads/resume.pdf
+  #  weight: 70
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
